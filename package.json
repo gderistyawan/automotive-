@@ -1,0 +1,32 @@
+{
+  "name": "drivepulse-automotive",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Landing page dealer mobil baru DRIVEPULSE AUTOMOTIVE — React, Vite, React Three Fiber, GSAP.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node scripts/test-utils.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/dm-sans": "^5.1.0",
+    "@fontsource-variable/space-grotesk": "^5.1.0",
+    "@react-three/drei": "^9.117.3",
+    "@react-three/fiber": "^8.17.10",
+    "framer-motion": "^11.11.17",
+    "gsap": "^3.12.5",
+    "lucide-react": "^0.454.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.10"
+  },
+  "engines": {
+    "node": ">=18.18"
+  }
+}
